@@ -5,7 +5,7 @@
     "dark": "https://callcloser.ai/wp-content/uploads/2025/09/cropped-download-3.jpg",
     "light": "https://callcloser.ai/wp-content/uploads/2025/10/Call-Closer-Logo-White-1-e1760531810284.png"
   },
-  "favicon": "/wp-content/uploads/2025/10/CallCloser-icon-1.png",
+  "favicon": "https://callcloser.ai/wp-content/uploads/2025/10/CallCloser-icon-1.png",
   "colors": {
     "primary": "#006BDF",
     "light": "#6c63ff",
