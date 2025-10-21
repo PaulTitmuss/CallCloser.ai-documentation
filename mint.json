@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "CallCloser.ai",
   "logo": {
-    "dark": "/resources/logo/dark.png",
-    "light": "/resources/logo/light.png"
+    "dark": "/wp-content/uploads/2025/09/cropped-download-3.jpg",
+    "light": "/wp-content/uploads/2025/10/Call-Closer-Logo-White-1-e1760531810284.png"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/wp-content/uploads/2025/10/CallCloser-icon-1.png",
   "colors": {
-    "primary": "#06df4b",
-    "light": "#06df4b",
-    "dark": "#65fe50",
+    "primary": "#006BDF",
+    "light": "#6c63ff",
+    "dark": "#018BF7",
     "anchors": {
       "from": "#01df4a",
-      "to": "#65fe50"
+      "to": "#018BF7"
     }
   },
   "topAnchor": {
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://callcloser.ai/"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://callcloser.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.callcloser.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
