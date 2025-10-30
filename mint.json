@@ -57,7 +57,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-autocalls",
+        "introduction/what-is-callcloser",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
@@ -317,7 +317,7 @@
     "linkedin": "https://www.linkedin.com/company/callcloser-ai"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://app.callcloser.ai/api/",
     "auth": {
       "method": "bearer"
     }
